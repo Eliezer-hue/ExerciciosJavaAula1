@@ -1,2 +1,2 @@
-# ExerciciosJavaAula1
+# ExerciciosJavaAula2
 Exemplos e exercícios praticados em aula
